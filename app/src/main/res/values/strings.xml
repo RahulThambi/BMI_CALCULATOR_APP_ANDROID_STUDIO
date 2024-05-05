@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BMI_CALCULATOR</string>
+    <string name="body_mass_index_bmi_is_a_measure_of_body_fat_based_on_height_and_weight_that_applies_to_adult_men_and_women">Body mass index (BMI) is a measure of body fat, based on height and weight that applies to adult men and women.</string>
+    <string name="calculator">CALCULATOR</string>
+    <string name="bmi">BMI</string>
+    <string name="female">FEMALE</string>
+    <string name="male">MALE</string>
+    <string name="height_cm">HEIGHT (cm):</string>
+    <string name="weight_kg">WEIGHT (kg):</string>
+    <string name="metric">METRIC:</string>
+    <string name="check_your_bmi"><![CDATA[Check your BMI -->]]></string>
+    <string name="name">NAME:</string>
+    <string name="enter_your_name">Enter your name</string>
+
+    <string-array name="metric">
+        <item>m-kg</item>
+        <item>inches-lb</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Goregaon</item>
+        <item>Grant Road</item>
+        <item>Malad</item>
+        <item>Chembur</item>
+    </string-array>
+</resources>
